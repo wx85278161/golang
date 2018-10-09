@@ -17,3 +17,5 @@ Installation:
   );
 5. Now run the server
   $ go run Webserver.go
+6. Run the testing script
+  $ sh test.sh
