@@ -1,5 +1,5 @@
 # golang
-Golang webserver CRUD using Iris and mySQL
+Golang webserver CRUD using Iris and mySQL(credentials: root, abc123)
 
 Installation:
 
