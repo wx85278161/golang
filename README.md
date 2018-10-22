@@ -4,6 +4,9 @@ Golang webserver CRUD using Iris and mySQL(credentials: root, abc123)
 Installation:
 
 1. Download golang and mysql on the machine.
+
+wget https://dl.google.com/go/go1.11.1.linux-amd64.tar.gz
+
 2. Install iris and mysql packages
   $ go get -u github.com/go-sql-driver/mysql
   $ go get -u github.com/kataras/iris
