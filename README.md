@@ -5,11 +5,14 @@ Installation:
 
 1. Download golang and mysql on the machine.
 
-wget https://dl.google.com/go/go1.11.1.linux-amd64.tar.gz
+  wget https://dl.google.com/go/go1.11.1.linux-amd64.tar.gz
 
 2. Install iris and mysql packages
+
   $ go get -u github.com/go-sql-driver/mysql
+  
   $ go get -u github.com/kataras/iris
+  
 3. Create database using
   mysql> create database dbname;
 4. Create table using
