@@ -1,4 +1,4 @@
-# golang
+# golang-iris-mysql test
 Golang webserver CRUD using Iris and mySQL(credentials: root, abc123)
 
 Installation:
